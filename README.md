@@ -8,7 +8,7 @@ This project helped me a lot understaing how to work with EJS templates, connect
 It has all features you can think of a todo list app can have, adding and deleting items. Creating new custom list.
 To create a custom list in URL address bar just type '/ListName' instead of ListName type whatever list name you wanna keep.
 
-https://boiling-scrubland-04348.herokuapp.com , this is the link to the app. The data is collected and stored in DB setup online on MongoDB Atlas Cloud.
+https://todo-list-3745.herokuapp.com , this is the link to the app. The data is collected and stored in DB setup online on MongoDB Atlas Cloud.
 
 Important Clarifications:
 
